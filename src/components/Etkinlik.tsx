@@ -33,7 +33,7 @@ const Etkinlik: React.FC<IActiviteProps> = ({ activites }) => {
                         <ul>
                             <li><a href="#">Tüm Etkinlikler</a></li>
                             <li><a href="#">Tiyatro</a></li>
-                            <li><a href="#">Konse</a></li>
+                            <li><a href="#">Konser</a></li>
                             <li><a href="#">Stand Up</a></li>
                             <li><a href="#">Sinema</a></li>
                             <li><a href="#">Çocuk</a></li>

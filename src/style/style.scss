@@ -234,6 +234,7 @@
           }
 
           span:first-child {
+            padding-top: 55px;
             @include tablet {
               position: absolute;
               color: white;
@@ -300,6 +301,7 @@
             color: #ff0d87;
             width: 50px;
           }
+          
         }
         img {
           position: absolute;
